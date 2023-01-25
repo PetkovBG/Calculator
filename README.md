@@ -30,7 +30,7 @@ Built a calculator with HTML, CSS &amp; JavaScript
 #### When selecting AC the input field is reset and the user can start over. 
 ![image](https://user-images.githubusercontent.com/97334281/214672759-f885c03e-fb00-4c70-95b0-b94853da71a7.png)
 
-## Decimal Function
+## Decimal calculations
 #### The calculator calculates operations with decimal numbers as well
 ![image](https://user-images.githubusercontent.com/97334281/214673330-a23e1e16-a6e8-42ad-a9be-83c345e410e4.png)
 ![image](https://user-images.githubusercontent.com/97334281/214673412-c15db5e8-b0a7-4ede-a028-e70bb10ea70e.png)
