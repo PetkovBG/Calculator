@@ -12,5 +12,8 @@ Built a calculator with HTML, CSS &amp; JavaScript
 #### Once we select an operation the current sum goes above and the user can select a different number
 ![image](https://user-images.githubusercontent.com/97334281/214670910-5bb77f7b-6458-4274-b8fa-a521b5d9c691.png)
 
+#### Last added number appears below the current sum in the display field
+![image](https://user-images.githubusercontent.com/97334281/214671412-b40a5693-defe-4312-af9e-6f6a48b3c632.png)
+
 #### When ready the user can select the equals sign which will provide the end result in the display field
 ![image](https://user-images.githubusercontent.com/97334281/214671162-29712364-5cec-4af3-8d9b-5414b8637b8d.png)
