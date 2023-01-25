@@ -21,3 +21,7 @@ Built a calculator with HTML, CSS &amp; JavaScript
 ## Large numbers
 #### Large numbers are separated by comma for better user experience
 ![image](https://user-images.githubusercontent.com/97334281/214671742-c117ed04-b8b9-4bcf-8987-b1b67951e522.png)
+
+## Delelete button
+#### When selecting DEL the last digit is removed
+![image](https://user-images.githubusercontent.com/97334281/214672340-ce15f1ec-9d8c-4248-bbf3-7e5724bdee1f.png)
