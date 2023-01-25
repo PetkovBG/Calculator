@@ -17,3 +17,7 @@ Built a calculator with HTML, CSS &amp; JavaScript
 
 #### When ready the user can select the equals sign which will provide the end result in the display field
 ![image](https://user-images.githubusercontent.com/97334281/214671162-29712364-5cec-4af3-8d9b-5414b8637b8d.png)
+
+## Large numbers
+#### Large numbers are separated by comma for better user experience
+![image](https://user-images.githubusercontent.com/97334281/214671742-c117ed04-b8b9-4bcf-8987-b1b67951e522.png)
