@@ -25,3 +25,7 @@ Built a calculator with HTML, CSS &amp; JavaScript
 ## Delelete button
 #### When selecting DEL the last digit is removed
 ![image](https://user-images.githubusercontent.com/97334281/214672340-ce15f1ec-9d8c-4248-bbf3-7e5724bdee1f.png)
+
+## All clear
+#### When selecting AC the input field is reset and the user can start over. 
+![image](https://user-images.githubusercontent.com/97334281/214672759-f885c03e-fb00-4c70-95b0-b94853da71a7.png)
